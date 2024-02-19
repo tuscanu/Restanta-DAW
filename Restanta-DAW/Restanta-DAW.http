@@ -1,0 +1,6 @@
+@Restanta_DAW_HostAddress = http://localhost:4200
+
+GET {{Restanta_DAW_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
